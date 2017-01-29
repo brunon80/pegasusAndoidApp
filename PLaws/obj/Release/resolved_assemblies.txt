@@ -1,0 +1,11 @@
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/PLaws.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/System.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/System.Xml.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/System.Core.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/Mono.Android.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/Java.Interop.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/Xamarin.Android.Support.v4.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/mscorlib.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/bruno/Projects/PLaws/PLaws/obj/Release/android/assets/System.ServiceModel.Internals.dll

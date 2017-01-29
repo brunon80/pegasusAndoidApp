@@ -1,0 +1,2 @@
+<resources><style name="MyactionBar" parent="@android:style/Theme.Holo.Light.DarkActionBar" /><style name="mySplashScreen.Theme" parent="android:Theme"><item name="android:windowBackground">
+           @drawable/splashpegasus</item><item name="android:windowNoTitle">true</item></style></resources>

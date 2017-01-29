@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<style name="MyactionBar" parent="@android:style/Theme.Holo.Light.DarkActionBar" />
+	<style name="mySplashScreen.Theme"
+         parent="android:Theme">
+           <item name="android:windowBackground">
+           @drawable/splashPegasus</item>
+           <item name="android:windowNoTitle">true</item>
+         </style>
+</resources>

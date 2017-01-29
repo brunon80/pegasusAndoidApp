@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8EF9DD6F-00C5-4514-AC9E-AC3AF967C900}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="PLaws/MainActivity.cs" Line="28" Column="26" />
+      <File FileName="PLaws/FragmentList.cs" Line="51" Column="4" />
+      <File FileName="PLaws/Properties/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PLaws AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.X86_Android" AndroidDesignerPreferredTheme="MyactionBar" />
+</Properties>
