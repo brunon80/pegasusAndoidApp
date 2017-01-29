@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8EF9DD6F-00C5-4514-AC9E-AC3AF967C900}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PLaws/MainActivity.cs">
     <Files>
-      <File FileName="PLaws/MainActivity.cs" Line="28" Column="26" />
+      <File FileName="PLaws/MainActivity.cs" Line="20" Column="82" />
       <File FileName="PLaws/FragmentList.cs" Line="51" Column="4" />
       <File FileName="PLaws/Properties/AndroidManifest.xml" Line="1" Column="1" />
     </Files>
